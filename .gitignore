@@ -30,3 +30,5 @@ env/
 *.onnx
 models/
 backtest_results/
+.env
+.env.*
